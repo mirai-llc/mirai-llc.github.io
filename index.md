@@ -1,5 +1,5 @@
 # About
-**Name: Mirai LLC.,**<br/>
-**Established: 08/11/2021**<br/>
-**CEO: Tomoya AMACHI**<br/>
-[GET IN TOUCH](mailto:contact@mirai-security.com)
+## Name: Mirai LLC.,
+## Established: 08/11/2021
+## CEO: Tomoya AMACHI
+## [GET IN TOUCH](mailto:contact@mirai-security.com)
